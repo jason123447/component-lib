@@ -1,0 +1,12 @@
+// .carousel-item {
+//     position: absolute;
+//     transform: translateX(366px);
+// }
+// :host {
+// }
+
+.carousel-item-wrapper {
+    position: absolute;
+    display: inline-block;
+    transform: translateX(366px);
+}
